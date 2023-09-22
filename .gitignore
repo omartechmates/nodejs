@@ -1,0 +1,8 @@
+# Ignore the 'dist' directory (compiled code)
+dist/
+
+# Ignore the 'node_modules' directory (installed dependencies)
+node_modules/
+
+# Ignore the 'package-lock.json' file (dependency lockfile)
+package-lock.json
